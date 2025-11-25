@@ -1,4 +1,3 @@
-# https://courses.cognitiveclass.ai/certificates/f294866a9ce54739a1619dd288fa1f39
 
 👋 Hi, I'm Kenth Airhon A. Guinto
 
@@ -12,6 +11,7 @@ New Era University
 
  Certifications
 SQL and Relational Databases 101
+# https://courses.cognitiveclass.ai/certificates/f294866a9ce54739a1619dd288fa1f39
 
  Skill Set
 Programming
