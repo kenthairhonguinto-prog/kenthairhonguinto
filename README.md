@@ -4,36 +4,36 @@ I'm passionate about coding and skilled in database management. I enjoy tackling
 
 🎓 Education
 
-Bachelor of Science in Information Technology
+• Bachelor of Science in Information Technology
 New Era University
 2023 – Present
 
 🎓 Certifications
 
-SQL and Relational Databases 101
+• SQL and Relational Databases 101
 Credential: CognitiveClass.ai
 Certificate Link: https://courses.cognitiveclass.ai/certificates/f294866a9ce54739a1619dd288fa1f39
 
 🛠️ Skill Set
 Programming
 
-Java
+• Java
 
-JavaScript
+• JavaScript
 
-Databases
+• Databases
 
-IBM DB2 Cloud
+• IBM DB2 Cloud
 
-Tools
+• Tools
 
-Lucidchart
+• Lucidchart
 
-Jaspersoft Studio
+• Jaspersoft Studio
 
-Eclipse
+• Eclipse
 
-HTML
+• HTML
 
 🤝 Let's Connect!
 
